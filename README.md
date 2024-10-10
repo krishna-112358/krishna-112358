@@ -1,5 +1,5 @@
 -👋 Hi, I’m @krishna-112358
-- 👀 I’m interested in learning advanced concepts and matering basics of python 
+- 👀 I’m interested in learning advanced concepts and mastering basics of python 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me ...
